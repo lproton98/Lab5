@@ -1,0 +1,26 @@
+.page{
+	
+}
+
+table, th, td {
+	border: 1px solid black;
+	text-align: center; 
+}
+
+th{
+	font-family: courier;
+	font-size: 125%;
+	padding: 5px;
+}
+
+tr{
+	background-color: darkblue;
+	color: white;
+}
+
+.heading
+{
+	text-align: center;
+	font-family: courier;
+	
+}
